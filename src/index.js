@@ -1,7 +1,7 @@
 const Web3 = require('web3')
 const _governor = require('../assets/governor.json')
 // FILL THESE IN FOR THE NETWORK
-const web3URI = 'https://mainnet.infura.io/v3/668b3268d5b241b5bab5c6cb886e4c61'
+const web3URI = 'https://mainnet.infura.io/v3/<___REPLACE_ME___>'
 const governorAddress = '0xe5bcEa6F87aAEe4a81f64dfDB4d30d400e0e5cf4'
 // Can add this for speed
 const fromBlock = 11068577
